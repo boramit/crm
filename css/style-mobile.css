@@ -88,7 +88,7 @@ input::placeholder { font-size: 14px; color: #A8B3BD;}
 .sub #wrap header .header_wrap img {width: 24px;}
 
 
-.sub #wrap #contents_wrap .tab_wrap .tab_wrap_item {display: flex; justify-content: space-between; align-items: center; font-weight: 600; margin: 0 15px; border-bottom: 1px solid #E7EBEE;}
+.sub #wrap #contents_wrap .tab_wrap .tab_wrap_item {display: flex; justify-content: space-between; align-items: center; font-size: 15px; font-weight: 600; margin: 0 15px; border-bottom: 1px solid #E7EBEE;}
 .sub #wrap #contents_wrap .tab_wrap .tab_wrap_item a {display: block; padding-bottom: 15px; flex-grow: 1; text-align: center;}
 .sub #wrap #contents_wrap .tab_wrap .tab_wrap_item a.on {color: var(--main); border-bottom: 2px solid var(--main);}
 
